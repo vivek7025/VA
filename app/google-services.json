@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "741225612349",
+    "firebase_url": "https://reminder-dfe59-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "reminder-dfe59",
+    "storage_bucket": "reminder-dfe59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741225612349:android:48cd5b660e45a7e8495654",
+        "android_client_info": {
+          "package_name": "com.va.flashapitry1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741225612349-u4tai0jadn3vu6bd8rnrm12ub9if9e25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcpAUEClXI9OnPyCBRHPHIZNEhqkiB7SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741225612349-u4tai0jadn3vu6bd8rnrm12ub9if9e25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741225612349:android:2ce5fae9e208a973495654",
+        "android_client_info": {
+          "package_name": "com.va.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741225612349-u4tai0jadn3vu6bd8rnrm12ub9if9e25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcpAUEClXI9OnPyCBRHPHIZNEhqkiB7SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741225612349-u4tai0jadn3vu6bd8rnrm12ub9if9e25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741225612349:android:25803a72fd4d1532495654",
+        "android_client_info": {
+          "package_name": "com.va.reminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741225612349-u4tai0jadn3vu6bd8rnrm12ub9if9e25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcpAUEClXI9OnPyCBRHPHIZNEhqkiB7SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741225612349-u4tai0jadn3vu6bd8rnrm12ub9if9e25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
